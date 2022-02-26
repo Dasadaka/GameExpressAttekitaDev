@@ -1,4 +1,5 @@
 # GameExpressAttekitaDev
+#Ado Ado Dávila é viado
 Material do curso rápido de desenvolvimento de games Attekita Dev
 
 Game desenvolvido para HostGator em ação para Black Friday https://aventurahostgator.com.br
